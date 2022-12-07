@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 498849cac3da0bf4386cd5570cdc481e
+guid: 99da270f825363440b50ce1ec1edd2df
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,43 +141,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: crossbow_0
+      name: character_0
       rect:
         serializedVersion: 2
-        x: 73
-        y: 352
-        width: 227
-        height: 187
+        x: 52
+        y: 258
+        width: 338
+        height: 293
       alignment: 9
-      pivot: {x: 0.4848776, y: 0.02730246}
+      pivot: {x: 0.4779613, y: 0.08305437}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdbfa354a3d9a8f4592641858d2685be
-      internalID: 1607084631
+      spriteID: ab6c014b4349acc40a252010c88e38bb
+      internalID: 1323207642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: crossbow_1
+      name: character_1
       rect:
         serializedVersion: 2
-        x: 142
-        y: 130
-        width: 166
-        height: 34
+        x: 576
+        y: 255
+        width: 365
+        height: 275
       alignment: 9
-      pivot: {x: 0.4948304, y: 0.6009647}
+      pivot: {x: 0.52857196, y: 0.07201593}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16cba411c58d22749ad3de018ce82322
-      internalID: -372323188
+      spriteID: 7ebd00e0c8d6cbb4f8c3cc7cb0193ae7
+      internalID: -659477121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_2
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 189
+        width: 69
+        height: 197
+      alignment: 9
+      pivot: {x: 0.52159053, y: 0.96131396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52413a8a8cd63e54fa093d5aab3769b1
+      internalID: -1144021560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_3
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 182
+        width: 58
+        height: 211
+      alignment: 9
+      pivot: {x: 0.42293996, y: 0.9589485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c019af1669d47741a89d83783882c04
+      internalID: -1703971606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_4
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 280
+        width: 183
+        height: 167
+      alignment: 9
+      pivot: {x: 0.3467358, y: 0.92657137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4467556301a55014db9773805811db43
+      internalID: 1352040080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_5
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 31
+        width: 192
+        height: 169
+      alignment: 9
+      pivot: {x: 0.35367838, y: 0.94760257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba1d89784e0b664db41847b90ac54a9
+      internalID: -288791955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_6
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 483
+        width: 371
+        height: 115
+      alignment: 9
+      pivot: {x: 0.042212307, y: 0.79796356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf582ec1855eeb40abf508a7857cbdf
+      internalID: -629281117
       vertices: []
       indices: 
       edges: []
@@ -193,8 +298,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      crossbow_0: 1607084631
-      crossbow_1: -372323188
+      character_2: -1144021560
+      character_6: -629281117
+      character_1: -659477121
+      character_5: -288791955
+      character_0: 1323207642
+      character_3: -1703971606
+      character_4: 1352040080
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
